@@ -1,4 +1,4 @@
- 🎬 MovieLens — Ratings Explorer
+# 🎬 MovieLens — Ratings Explorer
 
 Interactive Streamlit dashboard analyzing the [MovieLens 100k dataset](https://grouplens.org/datasets/movielens/100k/).  
 This project explores movie ratings by genre, release year, and popularity vs satisfaction.
